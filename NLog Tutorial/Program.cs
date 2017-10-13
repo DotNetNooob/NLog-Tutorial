@@ -15,7 +15,7 @@ namespace NLog_Tutorial
         private static Logger logger = LogManager.GetCurrentClassLogger();
 
         static void Main(string[] args)
-        {
+        { 
             logger.Trace("Sample trace message");
             logger.Debug("Sample debug message");
             logger.Info("Sample informational message");
