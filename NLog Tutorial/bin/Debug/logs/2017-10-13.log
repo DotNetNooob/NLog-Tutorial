@@ -1,0 +1,23 @@
+2017-10-13 10:13:15.0762 DEBUG Sample debug message
+2017-10-13 10:13:15.3599 INFO Sample informational message
+2017-10-13 10:13:15.3719 WARN Sample warning message
+2017-10-13 10:13:15.3890 ERROR Sample error message
+2017-10-13 10:13:15.4100 FATAL Sample fatal error message
+2017-10-13 10:15:29.6194|DEBUG|Sample debug message
+2017-10-13 10:15:29.7280|INFO|Sample informational message
+2017-10-13 10:15:29.7360|WARN|Sample warning message
+2017-10-13 10:15:29.7360|ERROR|Sample error message
+2017-10-13 10:15:29.7510|FATAL|Sample fatal error message
+2017-10-13 10:23:14.1858|DEBUG|Sample debug message
+2017-10-13 10:23:14.2318|INFO|Sample informational message
+2017-10-13 10:23:14.2318|WARN|Sample warning message
+2017-10-13 10:23:14.2449|ERROR|Sample error message
+2017-10-13 10:23:14.2449|FATAL|Sample fatal error message
+2017-10-13 10:23:14.3584|FATAL|Division by 0
+2017-10-13 10:23:30.2621|DEBUG|Sample debug message
+2017-10-13 10:23:30.3011|INFO|Sample informational message
+2017-10-13 10:23:30.3251|WARN|Sample warning message
+2017-10-13 10:23:30.3251|ERROR|Sample error message
+2017-10-13 10:23:30.3351|FATAL|Sample fatal error message
+2017-10-13 10:23:30.4302|FATAL|Division by 0
+2017-10-13 10:24:02.7535|FATAL|Division by 0

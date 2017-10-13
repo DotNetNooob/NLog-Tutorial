@@ -1,0 +1,4 @@
+2017-10-13 10:05:44.4847|INFO|NLog_Tutorial.Program|Sample informational message
+2017-10-13 10:05:44.5473|WARN|NLog_Tutorial.Program|Sample warning message
+2017-10-13 10:05:44.5563|ERROR|NLog_Tutorial.Program|Sample error message
+2017-10-13 10:05:44.5563|FATAL|NLog_Tutorial.Program|Sample fatal error message

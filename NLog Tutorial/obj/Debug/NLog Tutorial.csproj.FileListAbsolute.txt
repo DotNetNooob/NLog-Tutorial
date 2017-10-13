@@ -1,0 +1,9 @@
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\NLog Tutorial\NLog Tutorial\bin\Debug\NLog Tutorial.exe.config
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\NLog Tutorial\NLog Tutorial\bin\Debug\NLog.config
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\NLog Tutorial\NLog Tutorial\bin\Debug\NLog Tutorial.exe
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\NLog Tutorial\NLog Tutorial\bin\Debug\NLog Tutorial.pdb
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\NLog Tutorial\NLog Tutorial\bin\Debug\NLog.dll
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\NLog Tutorial\NLog Tutorial\bin\Debug\NLog.xml
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\NLog Tutorial\NLog Tutorial\obj\Debug\NLog Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\NLog Tutorial\NLog Tutorial\obj\Debug\NLog Tutorial.exe
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\NLog Tutorial\NLog Tutorial\obj\Debug\NLog Tutorial.pdb
